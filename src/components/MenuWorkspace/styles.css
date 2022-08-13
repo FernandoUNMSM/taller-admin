@@ -1,0 +1,34 @@
+.container {
+  height: 100vh;
+  background-color: rgb(29, 29, 31);
+  position: relative;
+  width: 200px;
+  z-index: 1;
+}
+
+.menu {
+  /* position: fixed; */
+  margin: auto;
+  width: 100%;
+  /* background-color: #afa; */
+  /* bottom: 0; */
+}
+.item{
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: .3s;
+}
+.item:hover{
+  background-color: rgb(114, 198, 207);
+
+}
+.item p {
+  /* grid-column: 1/3;
+  grid-row: 1/2; */
+  /* position: sticky; */
+  color: #fff;
+  top: 0;
+  width: 100%;
+  margin: 0;
+  font-weight: 700;
+}
