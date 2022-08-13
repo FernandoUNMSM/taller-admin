@@ -8,7 +8,7 @@ export default function Login ({}){
       <LoginContainer>
         <LoginWindow>
           <LoginForm></LoginForm>
-          <Img path='https://www.verywellfamily.com/thmb/YbJV_oWFuN8xPwhl68KeCzXF-gM=/1911x1433/smart/filters:no_upscale()/GettyImages-175452558-589a4cd83df78caebc7ebc63.jpg'></Img>
+          <Img path='https://www.holmeshr.com/wp-content/uploads/2021/07/Reporte-de-incidencias_-como-y-por-que-debo-realizarlo.jpg'></Img>
         </LoginWindow>
       </LoginContainer>
     </>
